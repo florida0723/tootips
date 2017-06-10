@@ -2,7 +2,7 @@
  * Package: tootips.js
  * Function: tootips 提示信息
  * Author: liutao.
- * Date: 2017-04-018 14:00:00.
+ * Date: 2017-04-18 14:00:00.
  */
 (function(root,factory){
     factory(root.jQuery);
